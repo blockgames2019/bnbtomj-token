@@ -1,0 +1,15 @@
+{
+  "main": "./contracts/MjCoin.sol",
+  "framework": "truffle",
+  "compilers": {
+    "truffle": "v5.4.3",
+    "solc": "0.8.6",
+    "evmVersion": "istanbul"
+  },
+  "linter": "solhint",
+  "editor": {
+    "fontFamily": "Hack",
+    "fontSize": "13px",
+    "ligatures": false
+  }
+}
